@@ -7,7 +7,7 @@
 
 - I bring a solid foundation in **identifying and mitigating cybersecurity threats. My expertise lies in analyzing vulnerabilities, implementing robust security measures, and ensuring the integrity of digital environments.**
 
-- 👨‍💻 Cybersecurity Project: [https://github.com/DsonSolo/Configuring-and-Testing-Opnsense-IDS-and-IPS-with-Suricata](https://github.com/DsonSolo/Configuring-and-Testing-Opnsense-IDS-and-IPS-with-Suricata)
+- 👨‍💻 Cybersecurity Project: [https://github.com/DsonSolo/Securing-Enterprise--Next-Gen-Cyber-Defense-Implementation](https://github.com/DsonSolo/Securing-Enterprise--Next-Gen-Cyber-Defense-Implementation)
 
 - 📫 How to reach me, Email: **solomon.d.seifu@gmail.com**
 
