@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Solomon</h1>
-<h3 align="center">I am a Professional Cybersecurity Analyst</h3>
+<h2 align="center">I am a Professional Cybersecurity Analyst</h2>
 
-- 🌱 I am actively acquiring proficiency in **Cybersecurity tools and frameworks Recognizing the unique toolsets employed by various organizations, I am committed to staying adaptable and continuously enhancing my skills to contribute effectively to cybersecurity initiatives.**
+- 🌱 **I am a seasoned technology professional with over 8 years of experience in the IT industry. I am dedicated and experienced in IT support services and administration, technical training, and departmental management by being organized and professional. I am CompTIA Cybersecurity Analyst (CySA+) Certified and an accomplished trainer and educator in Computer Science and IT. I have a proven track record of delivering excellent customer service and demonstrating exceptional relationship management skills by being organized and professional. I am a confident communicator, strategic thinker, and innovative creator, consistently seeking new knowledge and skills in the dynamic field of Computer Science and IT.**
+- **I am actively acquiring proficiency in Cybersecurity tools and frameworks Recognizing the unique toolsets employed by various organizations, I am committed to staying adaptable and continuously enhancing my skills to contribute effectively to cybersecurity initiatives.**
 
-- I graduated **from Per Scholas Cybersecurity professional training in September 15th 2023.**
+- **I graduated from Per Scholas, Greater Boston, Cybersecurity professional training in September 15th 2023.**
 
-- I bring a solid foundation in **identifying and mitigating cybersecurity threats. My expertise lies in analyzing vulnerabilities, implementing robust security measures, and ensuring the integrity of digital environments.**
+- **I bring a solid foundation in identifying and mitigating cybersecurity threats. My expertise lies in analyzing vulnerabilities, implementing robust security measures, and ensuring the integrity of digital environments.**
 
-- 👨‍💻 Cybersecurity Project: [https://github.com/DsonSolo/Securing-Enterprise--Next-Gen-Cyber-Defense-Implementation](https://github.com/DsonSolo/Securing-Enterprise--Next-Gen-Cyber-Defense-Implementation)
+- 👨‍💻 Cybersecurity Project: **[https://github.com/DsonSolo/Securing-Enterprise--Next-Gen-Cyber-Defense-Implementation](https://github.com/DsonSolo/Securing-Enterprise--Next-Gen-Cyber-Defense-Implementation)**
 
 - 📫 How to reach me, Email: **solomon.d.seifu@gmail.com**
 
